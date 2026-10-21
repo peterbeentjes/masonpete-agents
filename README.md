@@ -1,5 +1,19 @@
 # Mason Pete Agents
 
+<!-- marketplace-links -->
+## Get the templates (free, Grok Bot Marketplace)
+
+Free templates by [Mason Pete](https://www.masonpete.com) — independent Microsoft Dynamics 365 / Power Platform consultancy that stands on the client's side.
+
+| Template | One job | Install |
+|---|---|---|
+| Chief of Staff | Daily triage and morning briefing into Decisions / Watching / Done | [Open in Grok Bot](https://x.ai/bot/Q-Qp3NbW4kJ88YvwShgk3) |
+| Solution Architect | Design review against Microsoft Learn and Well-Architected | [Open in Grok Bot](https://x.ai/bot/6ATKa0Q-zIxdMxTpE4Yk7) |
+| Compliance Agent | NIS2 and ISO 27001 evidence and gap analysis for Power Platform | [Open in Grok Bot](https://x.ai/bot/XIKdxfkr_nIUK5mW03On1) |
+
+All three are read-only by default: nothing is sent, posted, merged, deployed or changed without your explicit yes. Routines stay off until you confirm in the first-run setup.
+
+
 Agent templates for Dynamics 365 and Power Platform consultancies. Built on Grok Bot. Strip secrets before sharing.
 
 ## Why this exists
